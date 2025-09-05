@@ -41,8 +41,8 @@ Wallets / Third-party Applications
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd soulbound-token-poc
+git clone https://github.com/krrpatel/proofspace.git
+cd proofspace
 
 # Install dependencies
 npm install
