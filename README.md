@@ -1,4 +1,4 @@
-# Soulbound Token Proof-of-Claim System
+# Soulbound Token Proof-of-Claim System By ProofSpace
 
 A decentralized Proof-of-Claim system built with Soulbound Tokens (SBTs) on Ethereum Sepolia testnet. This system allows users to mint non-transferable NFTs that represent verifiable achievements, credentials, or claims.
 
