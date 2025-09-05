@@ -1,0 +1,24 @@
+{
+  "name": "claim-sbt-project",
+  "version": "1.0.0",
+  "description": "Claim-based NFT/SBT project using Hardhat and TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "deploy": "npx hardhat run scripts/deploy.ts --network sepolia",
+    "mint": "npx hardhat run scripts/mint.ts --network sepolia",
+    "verify": "npx hardhat run scripts/verify.ts --network sepolia",
+    "test": "npx hardhat test",
+    "node": "npx hardhat node"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@types/node": "^20.0.0",
+    "hardhat": "^2.19.0",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "dotenv": "^16.3.1"
+  }
+}
