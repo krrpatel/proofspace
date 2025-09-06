@@ -1,0 +1,52 @@
+# ClaimSBT — Proprietary License (All Rights Reserved)
+
+Copyright (c) 2025 krrishkumar patel
+All rights reserved.
+
+SUMMARY: This repository, its source code, assets, documentation, scripts, and other materials (collectively, the "Materials") are proprietary. You MAY NOT copy, redistribute, publish, mirror, modify, translate, fork, rehost, or otherwise use the Materials in whole or in part except as expressly permitted by a signed, written license from the copyright holder.
+
+By accessing or using the Materials you agree to be bound by the terms below.
+
+---
+
+## 1. Grant of Limited Rights
+No rights are granted except those expressly provided in a separate written license signed by the copyright holder. Any use not expressly permitted is prohibited.
+
+## 2. Prohibited Actions (examples)
+Without prior written permission you may not:
+- Copy, clone, fork, mirror, or redistribute the repository or any file contained herein.
+- Create derivative works, adaptations, or translations of the code or assets.
+- Use the code or assets in a public or private project, product, service, or repository.
+- Rehost the repository or any part of it (including on public git hosts, package registries, or file hosting services).
+- Use snippets or portions of the code in any public codebase without written permission.
+
+## 3. Attribution & Notices
+All copyright, trademark, and other legal notices in the Materials must remain intact in any permitted use. Any permitted distribution must include this license and copyright notice.
+
+## 4. Enforcement & Remedies
+Violation of this license constitutes copyright and/or contractual infringement. Remedies include:
+- Immediate suspension of access.
+- Removal requests/takedown notices to hosting providers and platforms.
+- Reporting the infringing party to repository/hosting platforms (e.g., GitHub, npm, etc.).
+- Civil action and claims for damages, injunctive relief, and recovery of reasonable enforcement costs (including attorneys' fees).
+
+See ENFORCEMENT.md for the strike policy and takedown procedure.
+
+## 5. No Warranty
+THE MATERIALS ARE PROVIDED "AS IS". THE COPYRIGHT HOLDER DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+## 6. Governing Law
+This license and any disputes arising from it are governed by the laws of [Your State/Country] without regard to conflict-of-law principles. Venue for disputes will be in the appropriate courts of [Your State/Country].
+
+---
+
+## 7. Contact / Licensing Requests
+To request permission or a commercial license, contact:
+- Email: krpa020@gmail.com
+- Subject: "License Request - ClaimSBT"
+
+Requests must be in writing and will be considered only when sent from the requestor’s legally valid contact address.
+
+---
+
+By accessing, cloning, or otherwise interacting with this repository you acknowledge and accept these terms.
